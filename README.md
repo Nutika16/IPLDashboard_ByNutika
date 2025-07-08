@@ -45,6 +45,14 @@ An interactive IPL dashboard to explore teams, match outcomes, and performance h
 
 ---
 
+## ✍️ Raw Design (Before Development)
+
+This was the initial handmade design/sketch for the IPL Dashboard:
+
+![Raw Design](./designs/rawdesign.png)
+
+> The design helped shape the UI layout and functionality before implementation.
+
 ## 🖥️ How It Works
 
 1. Open the dashboard to see a list of IPL teams.
