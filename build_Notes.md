@@ -36,3 +36,8 @@ To begin shaping the product visually, a **hand-drawn wireframe/UI sketch** was 
 [✍️ Raw Design (Before Development)](README.md#️-raw-design-before-development)
 
 ---
+
+Each match can be a seprate page where
+we will talk about all the things that are associate with tha match like who won the toss and stuff like that
+
+![Raw Design](./Designs/SecondPage.png)
