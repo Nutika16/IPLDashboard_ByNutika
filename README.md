@@ -49,7 +49,7 @@ An interactive IPL dashboard to explore teams, match outcomes, and performance h
 
 This was the initial handmade design/sketch for the IPL Dashboard:
 
-![Raw Design](./designs/rawdesign.png)
+![Raw Design](./Designs/rawdesign.png)
 
 > The design helped shape the UI layout and functionality before implementation.
 
