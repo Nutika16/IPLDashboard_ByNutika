@@ -48,7 +48,7 @@ All IPL match data used in this project is sourced from **Kaggle**.
 You are free to use **any dataset** of your choice based on your project requirements — whether match-level, player stats, season summaries, or team performance.
 
 > 📄 **Note:**  
-> The specific dataset used for this project, along with its direct link, is documented in the [`walkthrough.txt`](./walkthrough.txt) file for your reference.
+> The specific dataset used for this project, along with its direct link, is documented in the [`build_notes.md`](./build_Notes.md) file for your reference.
 
 ---
 
